@@ -1,6 +1,15 @@
 # Crafts-Store
 An online Crafts selling E-Commerce Web Application
 
+The main idea of the project is to develop efficient and user friendly web application called CRAFTS STORE which will provide the platform for the users to purchase Craft or Handicrafts products in India.
+
+### Frameworks used:
+* Angular JS
+* Express JS
+* Node JS
+* MariaDB
+* JWT (JSON Web Tokens)
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
@@ -34,3 +43,9 @@ Run 'ng serve'
 
 ## Running Backent
 Run 'npm run dev'
+
+
+## Screenshots:
+![image](images/HomePageGood.PNG)
+
+![image](images/ProductDetails.PNG)
